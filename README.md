@@ -1,1 +1,5 @@
-# IT-304-exercise-1
+# CamMovagh.github.io
+
+Title: IT 304 
+
+Description: Assignment 
